@@ -1,0 +1,17 @@
+// vip bileti alan threadler (sirali vip numarasi - thread numarasi þeklinde)
+1 : 122
+2 : 17
+3 : 80
+4 : 9
+5 : 108
+// normal bileti alan threadler (sirasiz þekilde bileti alabilen thread numaralari)
+1210
+2012
+344
+733
+1850
+1001
+1584
+1016
+1778
+1868
